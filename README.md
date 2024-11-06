@@ -8,6 +8,10 @@ sudo apt-get install cmake
 ```
 Once CMake has been install navigate to the root of the project and issue the following commands:
 ```bash
+
+ install cmake
+```
+Once CMake has been install navigate to the root of the project and issue the following commands:
 mkdir build
 cd build
 cmake .. && make
